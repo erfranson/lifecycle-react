@@ -39,7 +39,7 @@ class App extends Component {
         <button
          onClick={this.handleClick}
         >
-          Udate state
+          Update state
         </button>
       </header>
     </div>
